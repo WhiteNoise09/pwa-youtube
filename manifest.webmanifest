@@ -1,11 +1,11 @@
 {
   "background_color": "#ff0000",
-  "description": "Youtube.",
+  "description": "A basic youtube \"pwa\".",
   "display": "fullscreen",
   "icons": [
     {
       "src": "icons/icon.png",
-      "sizes": "1280x901",
+      "sizes": "256x256",
       "type": "image/png"
     }
   ],
