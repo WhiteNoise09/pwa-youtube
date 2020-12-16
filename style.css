@@ -5,16 +5,15 @@ body {
 	width: 100%;
 	height: 100%;
 	display: flex;
+	justify-content: center;
+	align-items: center;
 }
-#logo {
+#launch-button {
 	margin: auto;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-}
-#launch-button {
 	width: 40vw;
-	align-self: center;
 }
 p {
 	text-align: center;
