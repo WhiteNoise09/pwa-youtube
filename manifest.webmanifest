@@ -1,0 +1,15 @@
+{
+  "background_color": "#ff0000",
+  "description": "Youtube.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icons/icon.png",
+      "sizes": "1280x901",
+      "type": "image/png"
+    }
+  ],
+  "name": "Youtube",
+  "short_name": "Youtube",
+  "start_url": "index.html"
+}
