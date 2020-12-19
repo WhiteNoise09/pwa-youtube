@@ -11,5 +11,6 @@
   ],
   "name": "Youtube",
   "short_name": "Youtube",
-  "start_url": "https://m.youtube.com"
+  "scope": "https://m.youtube.com/",
+  "start_url": "https://m.youtube.com/"
 }
